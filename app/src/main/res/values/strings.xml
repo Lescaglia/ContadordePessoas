@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contador de Pessoas</string>
+    <string name="descricao">Toque nos botões para inserir ou retirar o número de pessoas do App</string>
+    <string name="CTRL_D">Tecla de atalho CTRL+D copia linhas de código</string>
+    <string name="add">+</string>
+    <string name="numeroPessoas">0</string>
+    <string name="Del">-</string>
+</resources>
